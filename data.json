@@ -1,0 +1,50 @@
+{
+  "api_maj": 0,
+  "api_min": 10,
+  "dts": 0,
+  "dev": {
+    "dev_id": "00000000000000000000000000000000",
+    "dev_data": {
+      "dev_type": 256,
+      "fw": 0,
+      "hw_rev": 0,
+      "bat": 23.2,
+      "rssi": 0,
+      "temp": -273,
+      "dev_sts": 0
+    },
+    "chans": [{
+      "ch_idx": 0,
+      "ch_data": [{
+        "data_idx": 0,
+        "units": 1,
+        "val": 0.0045
+      }]
+    },
+      {
+        "ch_idx": 1,
+        "ch_data": [{
+          "data_idx": 0,
+          "units": 1,
+          "val": 0.0101
+        }]
+      },
+      {
+        "ch_idx": 2,
+        "ch_data": [{
+          "data_idx": 0,
+          "units": 1,
+          "val": 0.0150
+        }]
+      },
+      {
+        "ch_idx": 3,
+        "ch_data": [{
+          "data_idx": 0,
+          "units": 1,
+          "val": 0.0070
+        }]
+      }
+    ]
+  }
+}
