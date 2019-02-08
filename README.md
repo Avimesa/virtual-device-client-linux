@@ -25,7 +25,7 @@ Using the VDC, one can fully utilize the Avimesa Device Cloud from a Linux comma
 
 Checkout the client:
 ```
-git clone https://github.com/Avimesa/virtual-device-client-linux.git
+git clone https://github.com/Avimesa/virtual-device-client-x86-64
 cd virtual-device-client-linux
 ```
 
