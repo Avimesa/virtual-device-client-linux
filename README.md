@@ -1,6 +1,6 @@
-# Avimesa Virtual Device Client (VDC)
+# Avimesa Virtual Device Client (x86_64)
 
-This project contains an Avimesa Virtual Device Client for Linux in a binary form that can be ran from command line.
+This project contains an Avimesa Virtual Device Client for Linux in a binary form (x86_64) that can be ran from command line.
 
 - [1. Overview](#1.-overview)
 - [2. Prerequisites](#2.-prerequisites)
@@ -9,7 +9,7 @@ This project contains an Avimesa Virtual Device Client for Linux in a binary for
 <a id="1.-overview"></a>
 ## 1. Overview
 
-The Avimesa Virtual Device Client (VDC) allows one to easily use a Client on Linux to simulate or even implement devices.
+The Avimesa Virtual Device Client (VDC) allows one to easily use a Client on most Linux distributions to simulate or even implement devices.
 
 Using the VDC, one can fully utilize the Avimesa Device Cloud from a Linux command line with JSON.
 
@@ -17,7 +17,7 @@ Using the VDC, one can fully utilize the Avimesa Device Cloud from a Linux comma
 ## 2. Prerequisites
 
 - A valid Avimesa Device Cloud Device ID and Authentication Key
-- A Linux Host (Debian, CentOS, kernel 3.10+) with internet access
+- A Linux Host (x86_64, Debian, CentOS, RHEL7, kernel 3.10+) with internet access
 - Text editor to modify a JSON file
 
 <a id="3.-usage"></a>
