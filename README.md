@@ -26,12 +26,12 @@ Using the VDC, one can fully utilize the Avimesa Device Cloud from a Linux comma
 Checkout the client:
 ```
 git clone https://github.com/Avimesa/virtual-device-client-x86-64
-cd virtual-device-client-linux
+cd virtual-device-client-x86-64
 ```
 
 Run via command line, where you need to provide a valid Device ID (-i) and Authentication Key (-a)
 ```
-./avmsavdc -s 64.40.116.246 -p 36360 -j data.json -i 00000000000000000000000000000000 -a 11111111111111111111111111111111
+./avmsavdc -s devclserv001.avimesa.com -p 36360 -j data.json -i 00000000000000000000000000000000 -a 11111111111111111111111111111111
 ```
 
 If successful, you'll get a JSON response.  If no response, there is likely an issue with the Device ID and Authentication Key.
